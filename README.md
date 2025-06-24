@@ -18,4 +18,4 @@ If you have any questions, feel free to contact us.
 ---
 
 **Note on Accessibility of the Application Form:**  
-If you encounter any issues opening the PDF version of the *SRRSH-DF_Agreement* form, a PNG version is also available in the same GitHub repository as an alternative. Additionally, you can download both the PDF and PNG versions from our public Google Drive folder by clicking [here](https://drive.google.com/drive/folders). This folder contains both file formats for your convenience.
+If you encounter any issues opening the PDF version of the *SRRSH-DF_Agreement* form, a PNG version is also available in the same GitHub repository as an alternative. Additionally, you can download both the PDF and PNG versions from our public Google Drive folder by clicking [here](https://drive.google.com/drive/folders/1jdFb4w5jgjSGIYhCQv57KC_PZLAvQI-u?usp=sharing). This folder contains both file formats for your convenience.
